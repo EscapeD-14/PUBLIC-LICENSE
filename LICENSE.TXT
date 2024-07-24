@@ -1,0 +1,15 @@
+Property License (Only Escaped-14 code and assets)
+
+Copyright (c) 2024 Escaped-14 (Noverd-Gagarinten)
+
+All rights reserved.
+
+This license (hereinafter referred to as the "License") is issued by the author (hereinafter referred to as the "Rights Holder") and applies to the following source code (hereinafter referred to as the "Program"). The Rights Holder declares that he is the sole and exclusive owner of all rights to the Program.
+
+License Terms:
+1. No one, except for the Rights Holder, has the right to use, copy, modify, relicense, distribute, publish, transfer, sell, decompile, disassemble, reverse-engineer, or otherwise exploit the Program without the express written permission of the Rights Holder.
+2. All rights to the Program belong exclusively to the Rights Holder.
+3. Any use of the Program not provided for by this License is strictly prohibited.
+4. Violation of any of the terms of this License will result in the immediate termination of all rights granted under this License and may result in legal liability.
+
+If you have any questions or require permission to use the Program, please contact the Rights Holder at the following address: gagarinten@gmail.com.
